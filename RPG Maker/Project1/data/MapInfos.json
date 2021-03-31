@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"expanded":true,"name":"店内01","order":1,"parentId":0,"scrollX":507,"scrollY":473},
+{"id":2,"expanded":false,"name":"店内","order":2,"parentId":1,"scrollX":507,"scrollY":473},
+{"id":3,"expanded":false,"name":"外観","order":4,"parentId":0,"scrollX":507,"scrollY":473},
+{"id":4,"expanded":false,"name":"異空間","order":3,"parentId":1,"scrollX":507,"scrollY":473}
+]
